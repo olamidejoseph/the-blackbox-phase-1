@@ -1,0 +1,8 @@
+
+{
+    "python.defaultInterpreterPath": "C:\\Users\\Elite\\Downloads\\the-blackbox-phase-1\\the-blackbox\\backend\\.venv\\Scripts\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\Elite\\Downloads\\the-blackbox-phase-1\\the-blackbox\\backend\\.venv\\Lib\\site-packages"
+    ],
+    "css.lint.unknownAtRules": "ignore"
+}
